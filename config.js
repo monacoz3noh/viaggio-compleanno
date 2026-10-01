@@ -43,11 +43,11 @@ const CONFIG = {
   //   announce: "testo annuncio"         -> altrimenti usa quello standard
   //   message: "il tuo messaggio"
   stations: [
-    { name: "Piola",         nick: "ITIS",             message: "", 	video: "f1.mp4"},
-    { name: "Porta Genova",  nick: "Mini",             message: "", 	video: "f2.mp4"},
-    { name: "Garibaldi FS",  nick: "Caorle",           message: "", 	video: "f3.mp4"},
-    { name: "Centrale FS",   nick: "Casa Elia",        message: "", 	video: "f4.mp4"},
-    { name: "Famagosta",     nick: "Napoli Centrale",  message: "", 	video: "f5.mp4"},
+    { name: "Piola",         nick: "ITIS",             message: "", 	video: "monacoz3noh.github.io/asset/f1.mp4"},
+    { name: "Porta Genova",  nick: "Mini",             message: "", 	video: "monacoz3noh.github.io/asset/f2.mp4"},
+    { name: "Garibaldi FS",  nick: "Caorle",           message: "", 	video: "monacoz3noh.github.io/asset/f3.mp4"},
+    { name: "Centrale FS",   nick: "Casa Elia",        message: "", 	video: "monacoz3noh.github.io/asset/f4.mp4"},
+    { name: "Famagosta",     nick: "Napoli Centrale",  message: "", 	video: "monacoz3noh.github.io/asset/f5.mp4"},
     { name: "Assago",        nick: "Fine della Corsa", message: "" }   // ultima fermata (capolinea: niente video)
   ],
 
