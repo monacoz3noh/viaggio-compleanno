@@ -43,7 +43,7 @@ const CONFIG = {
   //   announce: "testo annuncio"         -> altrimenti usa quello standard
   //   message: "il tuo messaggio"
   stations: [
-    { name: "Piola",         nick: "ITIS",             message: "", 	video: "main/f1.mp4"},
+    { name: "Piola",         nick: "ITIS",             message: "", 	video: "f1.mp4"},
     { name: "Porta Genova",  nick: "Mini",             message: "", 	video: "f2.mp4"},
     { name: "Garibaldi FS",  nick: "Caorle",           message: "", 	video: "f3.mp4"},
     { name: "Centrale FS",   nick: "Casa Elia",        message: "", 	video: "f4.mp4"},
